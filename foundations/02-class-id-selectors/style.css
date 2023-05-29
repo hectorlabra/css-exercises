@@ -1,11 +1,23 @@
 * {
     font-family: sans-serif;
 }
-.paragraph1 {
-    font-size: xx-large;
+.paragraph1, .paragraph3 {
+    font-size: 2em;
     background-color: pink;
 }
 
 #div1 {
-    
+    font-size: 3em;
+    color: blue;
+}
+
+.paragraph2 {
+    font-size: 40px;
+    background-color: pink;
+}
+
+#div2 {
+    font-size: 38px;
+    font-weight: bold;
+    background-color: greenyellow
 }
