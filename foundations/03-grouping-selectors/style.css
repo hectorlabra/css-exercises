@@ -1,0 +1,12 @@
+.blackButton {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border-color: lightgray;
+}
+
+.yellowButton {
+    background-color: yellow;
+    font-size: 30px;
+    border-color: lightgray;
+}
